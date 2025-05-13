@@ -11,7 +11,7 @@ import {
 
 
 import React, { useEffect, useState } from 'react'
-import FlashcardItem from './_components/flashcardItem';
+import FlashcardItem from './_components/FlashcardItem';
 import { ApiError } from 'next/dist/server/api-utils';
 
 function Flashcards() {
