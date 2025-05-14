@@ -19,7 +19,7 @@ function Sidebar() {
     {
       name: "Mock Interview",
       icon: BookCheck,
-      path: "/",
+      path: "https://prepmock-git-main-kart1kagraharis-projects.vercel.app"
     },
     {
       name: "Upgrade",
